@@ -1,5 +1,6 @@
 English:
 
+KOCAELI UNIVERSITY COMPUTER ENGINEERING ANNOUNCEMENTS TRACKER.\n
 In order for this app to work, you should have an info.json file in the code's directory.
 This is what it looks like:
 
@@ -23,7 +24,7 @@ An SSL connection is used to connect to email server.
 
 
 Türkçe:
-
+KOCAELİ ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜM DUYURULARI TAKİP UYGULAMASI\n
 Bu uygulamanın çalışması için kodun bulunduğu dizinde bir info.json dosyası olmalıdır. Bu dosya şu şekilde olmalıdır:
 
 {
